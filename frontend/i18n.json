@@ -1,0 +1,9 @@
+{
+    "locales": ["en", "es", "de"],
+    "defaultLocale": "en",
+    "pages": {
+        "*": ["common"],
+
+        "rgx:^/affiliates": ["dashboard"]
+    }
+}
